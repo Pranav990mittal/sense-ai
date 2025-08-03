@@ -43,7 +43,7 @@ import { Toaster } from "sonner";
               {/* footer */}
               <footer className="bg-muted/50 py-12">
                 <div className="container mx-auto px-4 text-center text-gray-200">
-                  <p>Made with love By roadside coder</p>
+                  <p>Made By Pranav Mittal</p>
                   </div>
                   </footer>            
             </ThemeProvider>
